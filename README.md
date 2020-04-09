@@ -1,6 +1,10 @@
-# wxWGSJ
-Network Engineering and Programming Practice - Homework  
+# My Homeworks
+项目/作业，已有：
 
-An example of bookstore e-commerce, which is based on Wechat miniprogram and Java Springboot, imitates the interface of Dangdang's wechat applet
+| 名称             | 简介                                | 时间    |
+| ---------------- | ----------------------------------- | ------- |
+| sml_llvm         | 基于llvm的Standard ml简单解释器     | 2019-秋 |
+| bookstore-sever  | 基于微信小程序的网上书城,java后端   | 2020-春 |
+| bookstore-wechat | 基于微信小程序的网上书城,小程序前端 | 2020-春 |
+| qaid             | 上市公司财报信息披露质量分析        | 2019-夏 |
 
-For my lack of time and incapacity to get on with coding at home, the applet won't to be invented for versatilify from the start.
